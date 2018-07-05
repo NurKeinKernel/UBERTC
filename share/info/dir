@@ -15,7 +15,8 @@ File: dir,	Node: Top	This is the top of the INFO tree
 * Menu:
 
 GNU Libraries
-* libgomp: (libgomp).           GNU OpenMP runtime library
+* libgomp: (libgomp).           GNU Offloading and Multi Processing Runtime 
+                                  Library.
 
 Individual utilities
 * addr2line: (binutils)addr2line.               Convert addresses to file and 
@@ -54,7 +55,14 @@ Software development
 * Bfd: (bfd).                   The Binary File Descriptor library.
 * Binutils: (binutils).         The GNU binary utilities.
 * Cpp: (cpp).                   The GNU C preprocessor.
+* Cpplib: (cppinternals).       Cpplib internals.
 * Gas: (as).                    The GNU assembler.
 * Ld: (ld).                     The GNU linker.
-* gccint: (gccint).             Internals of the GNU Compiler Collection.
+* g++: (gcc).                   The GNU C++ compiler.
+* gcc: (gcc).                   The GNU Compiler Collection.
+* gcov: (gcc) Gcov.             'gcov'--a test coverage program.
+* gcov-dump: (gcc) Gcov-dump.   'gcov-dump'--an offline gcda and gcno profile 
+                                  dump tool.
+* gcov-tool: (gcc) Gcov-tool.   'gcov-tool'--an offline gcda profile 
+                                  processing program.
 * gprof: (gprof).               Profiling your program's execution
